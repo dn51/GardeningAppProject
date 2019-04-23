@@ -1,0 +1,106 @@
+[
+  {
+    "plantId": "1",
+    "name": "Apple",
+    "description": "My Best Description on Apple",
+    "growZoneNumber": 3,
+    "wateringInterval": 30,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Apple_orchard_in_Tasmania.jpg"
+  },
+  {
+    "plantId": "2",
+    "name": "Beet",
+    "description": "My Best Description on Beets",
+    "growZoneNumber": 2,
+    "wateringInterval": 7,
+    "imageUrl": "https://static.pexels.com/photos/264101/pexels-photo-264101.jpeg"
+  },
+  {
+    "plantId": "3",
+    "name": "Cilantro",
+    "description": "My Best Description on Cilantro",
+    "growZoneNumber": 2,
+    "wateringInterval": 2,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/A_scene_of_Coriander_leaves.JPG"
+  },
+  {
+    "plantId": "4",
+    "name": "Tomato",
+    "description": "My Best Description on Tomato",
+    "growZoneNumber": 9,
+    "wateringInterval": 4,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Cherry_tomatoes_red_and_green_2009_16x9.jpg"
+  },
+  {
+    "plantId": "5",
+    "name": "Avocado",
+    "description": "My Best Description on Avocado",
+    "growZoneNumber": 9,
+    "wateringInterval": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Branch_and_fruit_of_the_Maluma_avocado_cultivar.jpg"
+  },
+  {
+    "plantId": "6",
+    "name": "Pear",
+    "description": "My Best Description on Peer",
+    "growZoneNumber": 3,
+    "wateringInterval": 30,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/More_pears.jpg"
+  },
+  {
+    "plantId": "7",
+    "name": "Eggplant",
+    "description": "My Best Description on Eggplant",
+    "growZoneNumber": 4,
+    "wateringInterval": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Eggplant_display.JPG"
+  },
+  {
+    "plantId": "8",
+    "name": "Grape",
+    "description": "My Best Description on Grape",
+    "growZoneNumber": 9,
+    "wateringInterval": 9,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Grape_Plant_and_grapes9.jpg"
+  },
+  {
+    "plantId": "9",
+    "name": "Mango",
+    "description": "My Best Description on Mango",
+    "growZoneNumber": 11,
+    "wateringInterval": 7,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Mangos_criollos_y_pera.JPG"
+  },
+  {
+    "plantId": "10",
+    "name": "Orange",
+    "description": "My Best Description on Orange",
+    "growZoneNumber": 9,
+    "wateringInterval": 30,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Apfelsinenbaum--Orange_tree.jpg"
+  },
+  {
+    "plantId": "11",
+    "name": "Sunflower",
+    "description": "Roses are red\nViolets are blue\nSunflowers have seeds\nThat folks love to chew\n\n- M.G., 2018",
+    "growZoneNumber": 8,
+    "wateringInterval": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Sunflowers_in_field_flower.jpg"
+  },
+  {
+    "plantId": "12",
+    "name": "Watermelon",
+    "description": "My Best Description on Watermelon",
+    "growZoneNumber": 7,
+    "wateringInterval": 3,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/01266jfWatermelons_Philippines_textures_Apolonio_Samson_Market_Quezon_Cityfvf_02.jpg"
+  },
+  {
+    "plantId": "13",
+    "name": "Hibiscus",
+    "description": "My Best Description on ",
+    "growZoneNumber": 10,
+    "wateringInterval": 1,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Hibiscus_rosa-sinensis_flower_2.JPG"
+  }
+]
